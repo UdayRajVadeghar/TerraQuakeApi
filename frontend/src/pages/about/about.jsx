@@ -193,7 +193,7 @@ export default function About() {
                       }`}
                     />
                   </h2>
-                  <p className="text-gray-300 leading-relaxed text-sm md:text-base flex-grow">
+                  <p className="text-gray-300 leading-relaxed text-sm md:text-base flex-grow ok">
                     {item.content}
                   </p>
                 </div>
